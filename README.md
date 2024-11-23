@@ -27,7 +27,7 @@ This project demonstrates dynamic particle effects, engaging animations, and int
 ## **Setup Instructions**
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-repo/threejs-landing.git
+   git clone https://github.com/mrsobrado/Nirvana-Terminal.git
    cd threejs-landing
    ```
 
@@ -56,18 +56,18 @@ This project demonstrates dynamic particle effects, engaging animations, and int
 ```
 project-root/
 │
-├── src/
-│   ├── index.html        # Main HTML file
-│   ├── styles.css        # Stylesheet
+├── index.html        # Main HTML file
+├── assets/               # Stylesheet
+│   ├── planet1.jpg           # JavaScript entry point
+│   ├── planet2.jpg           # JavaScript entry point
+│   ├── planet3.jpg           # JavaScript entry point
+│   ├── planet4.jpg           # JavaScript entry point
+│   └── planet5.jpg           # Images and textures
+├── css               # Stylesheet
+│   ├── style.css           # JavaScript entry point
+├── scripts               # Stylesheet
 │   ├── main.js           # JavaScript entry point
-│   ├── shaders/          # Custom shader files
-│   └── assets/           # Images and textures
-│
-├── dist/                 # Production build
-│
-├── package.json          # Project configuration
-├── webpack.config.js     # Webpack configuration
-└── README.md             # Project documentation
+│   ├── main-stars.js          # Custom shader 
 ```
 
 ---
